@@ -6,6 +6,28 @@
         <description>ToolsHub app updates</description>
         <language>he</language>
         <item>
+            <title>Version 2.0</title>
+            <description><![CDATA[
+                <ul>
+                    <li>חדש: שליטה מרחוק — כלי תמיכה טכנית למנהלים עם צפייה ושליטה במסך באמצעות VNC</li>
+                    <li>אישור חיבור נדרש מצד המשתמש לפני כל חיבור</li>
+                    <li>זיהוי אוטומטי של שיתוף מסך פעיל</li>
+                    <li>רשימת מכשירים מחוברים בזמן אמת לפי סניף</li>
+                    <li>שיפורי ביצועים ותיקוני באגים</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 01 Feb 2026 13:49:24 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/MotionPeak/idigitalhub/releases/download/v2.0/ToolsHub.2.0.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="ZbkYcGJo8TCyOzNe20ewpR8gDJLQamvxKOejWUXpvH8BCdeHH1AhKpiJj7GITrreao0IybrDh8ijRKBjYCgKBg=="
+                length="9028133"
+            />
+        </item>
+        <item>
             <title>Version 1.1</title>
             <description><![CDATA[
                 <ul>
