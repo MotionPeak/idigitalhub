@@ -5,5 +5,26 @@
         <link>https://motionpeak.github.io/idigitalhub/appcast.xml</link>
         <description>ToolsHub app updates</description>
         <language>he</language>
+        <item>
+            <title>Version 1.1</title>
+            <description><![CDATA[
+                <ul>
+                    <li>עדכונים אוטומטיים באמצעות Sparkle</li>
+                    <li>שיפורים בהתראות ובקשות גישה</li>
+                    <li>כלי בדיקת תהליך אישור למנהלים</li>
+                    <li>תיקוני באגים ושיפורי ביצועים</li>
+                </ul>
+            ]]></description>
+            <pubDate>Sun, 01 Feb 2026 12:11:23 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/MotionPeak/idigitalhub/releases/download/v1.1/ToolsHub.1.1.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="O9j+63cehtw+iH/eb7xKQC8ZaMdyMULoWjJ3sc1zF33xLMzn0HsJmgo1sBRolMnBlWHZP1h+HP+mUN+8New7Ag=="
+                length="8975620"
+            />
+        </item>
     </channel>
 </rss>
