@@ -6,25 +6,24 @@
         <description>ToolsHub app updates</description>
         <language>he</language>
         <item>
-            <title>Version 2.0</title>
+            <title>Version 2.1</title>
             <description><![CDATA[
                 <ul>
                     <li>חדש: שליטה מרחוק — כלי תמיכה טכנית למנהלים עם צפייה ושליטה במסך באמצעות VNC</li>
-                    <li>אישור חיבור נדרש מצד המשתמש לפני כל חיבור</li>
-                    <li>זיהוי אוטומטי של שיתוף מסך פעיל</li>
-                    <li>רשימת מכשירים מחוברים בזמן אמת לפי סניף</li>
+                    <li>תיקון הרשמת מכשירים — המכשיר נשאר מחובר כל עוד האפליקציה פתוחה</li>
+                    <li>בדיקת עדכונים אוטומטית בכל הפעלה</li>
                     <li>שיפורי ביצועים ותיקוני באגים</li>
                 </ul>
             ]]></description>
-            <pubDate>Sun, 01 Feb 2026 13:49:24 +0000</pubDate>
-            <sparkle:version>2</sparkle:version>
-            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+            <pubDate>Sun, 01 Feb 2026 19:30:00 +0000</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>2.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/MotionPeak/idigitalhub/releases/download/v2.0/ToolsHub.2.0.dmg"
+                url="https://github.com/MotionPeak/idigitalhub/releases/download/v2.1/ToolsHub.2.1.dmg"
                 type="application/octet-stream"
-                sparkle:edSignature="aQQnRaPv0J8YcJP77rvx/UGIS1/NcbFJ4d6qZOUoCt+uKd5FHgnNzhtRGEMvG6EZpEkjK+/BscpJbJCl4qyWAQ=="
-                length="9031091"
+                sparkle:edSignature="o2R2pGtThbk796HUB4JdvttRJwVNcruh+/OaSiBezua0pUL2A78bNwAH1kXlNYKP/58EAVlCrr0DVK2ay4LDDg=="
+                length="9030438"
             />
         </item>
         <item>
