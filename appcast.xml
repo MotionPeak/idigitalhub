@@ -9,6 +9,24 @@
             <title>Version 2.0.5</title>
             <description><![CDATA[
                 <ul>
+                    <li>שיפורי ביצועים ותיקוני באגים</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 03 Feb 2026 17:18:40 +0200</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>2.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/MotionPeak/idigitalhub/releases/download/v2.0.5/ToolsHub.2.0.5.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="7Wrqv+yZXCcPxDcLHkdIRnlf6JGU39+VzxFXWCPIackSAu9426uIxDhztr31B2KTIg3uGIxK10HZjI7W8sAaCA=="
+                length="10035485"
+            />
+        </item>
+        <item>
+            <title>Version 2.0.5</title>
+            <description><![CDATA[
+                <ul>
                     <li>Here's a concise, user-facing update description in Hebrew:</li>
                     <li>---</li>
                     <li>**עדכונים ותיקונים:**</li>
