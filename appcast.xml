@@ -6,6 +6,33 @@
         <description>ToolsHub app updates</description>
         <language>he</language>
         <item>
+            <title>Version 2.0.5</title>
+            <description><![CDATA[
+                <ul>
+                    <li>Here's a concise, user-facing update description in Hebrew:</li>
+                    <li>---</li>
+                    <li>**עדכונים ותיקונים:**</li>
+                    <li>- שעות הפעילות בהודעות ללקוחות עודכנו: א׳-ה׳ 9:30-21:30, ו׳ 9:00-14:30, שבת 10:00-22:30</li>
+                    <li>- לשונית המשימות מציגה כעת קודם כל משימות פעילות, עם אפשרות לעבור לכל המשימות או למשימות שהושלמו</li>
+                    <li>- ביצירת משימה חדשה ניתן לבחור עובד מתוך רשימת העובדים בסניף, כשהעובדים ממוינים לפי דרגה</li>
+                    <li>- תוקן באג במלאי המשולב עבור לקוחות פריפייד</li>
+                    <li>- פריטי פריפייד לא מדפיסים יותר מדבקות</li>
+                    <li>- בכלי ארגון המשלוחים, במסך האימות — פריטים סרוקים עולים אוטומטית לראש הרשימה לפי סדר הסריקה</li>
+                    <li>- מגני מסך מציגים כעת שאלה האם מדובר באריזה של 10 או של 1</li>
+                </ul>
+            ]]></description>
+            <pubDate>Tue, 03 Feb 2026 16:14:18 +0200</pubDate>
+            <sparkle:version>8</sparkle:version>
+            <sparkle:shortVersionString>2.0.5</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/MotionPeak/idigitalhub/releases/download/v2.0.5/ToolsHub.2.0.5.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="oWWvR3lCd4DdXxVJhFwbdpXWorE3EwqcMAaO+hXH13er69u33zey9c/vhruoJMmiOLmDAmeOfx1fEWM0AZ+/Bw=="
+                length="10030721"
+            />
+        </item>
+        <item>
             <title>Version 2.0.4</title>
             <description><![CDATA[
                 <ul>
