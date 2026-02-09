@@ -6,6 +6,24 @@
         <description>ToolsHub app updates</description>
         <language>he</language>
         <item>
+            <title>Version 2.4.0</title>
+            <description><![CDATA[
+                <ul>
+                    <li>שיפורי ביצועים ותיקוני באגים</li>
+                </ul>
+            ]]></description>
+            <pubDate>Mon, 09 Feb 2026 22:16:34 +0200</pubDate>
+            <sparkle:version>17</sparkle:version>
+            <sparkle:shortVersionString>2.4.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/MotionPeak/idigitalhub/releases/download/v2.4.0/ToolsHub.2.4.0.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="YquDQr5AkOpppnGUuRwVHO86DGkODlswhux5HrQXOhL811cDgPtZdKK/SqhDuvFiiBchywZbVVlwYUby1vK/DQ=="
+                length="11683138"
+            />
+        </item>
+        <item>
             <title>Version 2.3.3</title>
             <description><![CDATA[
                 <ul>
