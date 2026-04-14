@@ -12,6 +12,24 @@
                     <li>שיפורי ביצועים ותיקוני באגים</li>
                 </ul>
             ]]></description>
+            <pubDate>Tue, 14 Apr 2026 16:41:54 +0300</pubDate>
+            <sparkle:version>35</sparkle:version>
+            <sparkle:shortVersionString>2.6.9</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/MotionPeak/idigitalhub/releases/download/v2.6.9/ToolsHub.2.6.9.dmg"
+                type="application/octet-stream"
+                sparkle:edSignature="c3fCYQ+X/pEFNbdGMNIj+ojMNO0Kid3twzKKXlTycyOTw12oFKfjIlgbWW1LUXZOTxcKWd+wLVOZbK9HjMByDg=="
+                length="12308510"
+            />
+        </item>
+        <item>
+            <title>Version 2.6.9</title>
+            <description><![CDATA[
+                <ul>
+                    <li>שיפורי ביצועים ותיקוני באגים</li>
+                </ul>
+            ]]></description>
             <pubDate>Tue, 24 Mar 2026 21:46:04 +0200</pubDate>
             <sparkle:version>35</sparkle:version>
             <sparkle:shortVersionString>2.6.9</sparkle:shortVersionString>
